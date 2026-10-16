@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "Wonix_DANIK",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "WonixCIOD.aternos.me",
+    "port": 19381,
     "version": "",
     "try-creative": false
   },
@@ -30,7 +30,7 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
-      "messages": [
+      "messages": 
         "I'm a regular player",
         "I like to play Minecraft!"
       ]
